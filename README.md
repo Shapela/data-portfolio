@@ -19,7 +19,7 @@ This portfolio showcases real-world projects I've worked on or simulated using a
 ### 1. Operations (Power BI)
 A Power BI dashboard developed to track Passenger Volume, Flight Movements, On-Time Performance and Baggage Handing Efficiency.
 
-[🔗 View Project](./projects/training-matrix-powerbi)
+[🔗 View Project](https://github.com/Shapela/data-portfolio/blob/main/Operations%20Dashboard.pbix)
 
 ---
 
